@@ -13,8 +13,8 @@
   
 
 Favourite Quotes: 
-“The price of inaction is far greater than the cost of making a mistake.” ― Meister Eckhart
-“Success is not final, failure is not fatal: it is the courage to continue that counts.” ― Winston S. Churchill
+-- “The price of inaction is far greater than the cost of making a mistake.” ― Meister Eckhart
+-- “Success is not final, failure is not fatal: it is the courage to continue that counts.” ― Winston S. Churchill
 
 <!---
 dylan-govender/dylan-govender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
