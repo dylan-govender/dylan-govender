@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img src="https://github.com/dylan-govender/dylan-govender/assets/134143760/2438b1af-d54d-492d-b8ee-d05d7df674e8" width="550" height="1000"> 
+    <img src="https://github.com/dylan-govender/dylan-govender/assets/134143760/2438b1af-d54d-492d-b8ee-d05d7df674e8" width="600" height="1000"> 
 </p>
 
 - 👋 Hi, I’m @dylan-govender
