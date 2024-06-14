@@ -4,19 +4,12 @@
 </p>
 
 - 👋 Hi, I’m @dylan-govender
-- 👀 I’m interested in fishing, chess, and everything else.
+- 👀 I’m interested in fishing, chess, game development and everything else.
 - 🌱 I’m currently learning AI and Quantum Computing.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me: govdyla@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No.
-  
-
-Favourite Quotes: 
-
-“The price of inaction is far greater than the cost of making a mistake.” ― Meister Eckhart
-
-“Success is not final, failure is not fatal: it is the courage to continue that counts.” ― Winston S. Churchill
 
 <!---
 dylan-govender/dylan-govender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
