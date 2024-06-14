@@ -1,6 +1,6 @@
 
 <p align="center" width="100%">
-    <img src="https://github.com/dylan-govender/Quizzam/assets/134143760/84b00759-b415-4303-9f29-92e08083e065](https://github.com/dylan-govender/dylan-govender/assets/134143760/2438b1af-d54d-492d-b8ee-d05d7df674e8"> 
+    <img src="https://github.com/dylan-govender/dylan-govender/assets/134143760/2438b1af-d54d-492d-b8ee-d05d7df674e8"> 
 </p>
 
 - 👋 Hi, I’m @dylan-govender
