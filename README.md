@@ -8,7 +8,7 @@ dylan-govender/dylan-govender is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Efficiently and Effectively Detecting Lung Cancer Using Vision Transformers<br>🌱 I’m currently learning Quantum Computing, Artificial Intelligence (NLP/ML/DL/IP&CV)<br>
 
 
