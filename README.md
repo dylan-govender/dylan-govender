@@ -32,12 +32,11 @@ You can click the Preview link to take a look at your changes.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dylan-govender&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+### 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=dylan-govender&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 ![github_snake](https://github.com/user-attachments/assets/5329c89b-60f4-47a3-ad37-e697a8cfc65d)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <rect class="c" x="2" y="2" width="12" height="12"/>
