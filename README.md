@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔭 I’m currently working on **Vision Transformers for Lung Cancer Detection**<br>🌱 I’m currently learning **Quantum Computing & Artificial** **Intelligence**<br>
+🔭 I’m currently working on **Vision Transformers for Lung Cancer Detection**<br>🌱 I’m currently learning about **Quantum Computing - QM/QML**<br>
 
 
 ## 🌐 Socials:
