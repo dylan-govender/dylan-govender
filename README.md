@@ -29,12 +29,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### ✍️ Inner Strength
-<p>
-    <img src="https://github.com/user-attachments/assets/20e1f51b-3733-4374-93b1-e99c3a14bb2f" width="30%" height="30%"> 
-</p>
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dylan-govender&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
