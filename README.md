@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+### ✍️ Dev Quote
+![faeb3a62-79c4-4f76-930a-000a7fb753c6](https://github.com/user-attachments/assets/8ff6a495-bb05-426d-a3f2-8c63ca433162)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dylan-govender&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
